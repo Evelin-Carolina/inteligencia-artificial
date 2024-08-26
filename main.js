@@ -35,12 +35,12 @@ const perguntas = [
         enunciado: "Você considera as orcas como agressivas?",
         alternativas: [
             {
-                texto: "Sim, pois são consideradas "baleias assassinas".",
+                texto: "Sim, pois são consideradas baleias assassinas.",
                 afirmacao: "as orcas apesar do apelido, são seres inofensivos e só caçam para a alimentação ou quando se sentem ameaçadas"
             },
             {
                 texto: "Não, pois elas apenas se alimentam como outros animais.",
-                afirmacao: "O apelido de "baleia assassina" veio devido a sua agilidade na hora da caça e por se alimentar de animais de sangue quente, porém matam apenas para se alimentar e mentar a sua sobrevivência."
+                afirmacao: "O apelido de baleia assassina veio devido a sua agilidade na hora da caça e por se alimentar de animais de sangue quente, porém matam apenas para se alimentar e mentar a sua sobrevivência."
             }
         ]
     },
